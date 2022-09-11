@@ -8,6 +8,12 @@ Shoot'em up game made with opengl for the olcCodeJam2021
 
 Open `start.bat` to generate the solution
 
+# *Controls*
+
+Movement - Arrow keys
+Shoot - X
+Focus - Shift
+
 # *Screenshots*
 
 
