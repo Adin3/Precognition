@@ -10,8 +10,8 @@ Open `start.bat` to generate the solution
 
 # *Controls*
 
-Movement - Arrow keys
-Shoot - X
+Movement - Arrow keys <br />
+Shoot - X <br />
 Focus - Shift
 
 # *Screenshots*
